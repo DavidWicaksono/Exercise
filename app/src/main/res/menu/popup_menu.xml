@@ -7,4 +7,7 @@
     <item
         android:id="@+id/mnedit"
         android:title="@string/editdata"/>
+    <item
+        android:id="@+id/mnhapus"
+        android:title="Hapus Data"/>
 </menu>
